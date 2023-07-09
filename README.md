@@ -1,16 +1,68 @@
-### Hi there 👋
+<div align="center">
+  <img height="150" src="https://static.wikia.nocookie.net/bac1dc1c-9ba0-4a51-8c51-e05cefd1759a/scale-to-width/755"  />
+</div>
 
-<!--
-**aqmeraamir/aqmeraamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.instagram.com/aqmerdropz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=aqmeraamir@gmail.com&logo=gmail&label=Gmail&color=aba9a6&logoColor=white&labelColor=D14836&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aqmeraamir.aqmeraamir&"  />
+</div>
+
+###
+
+<h1 align="center">hey</h1>
+
+###
+
+<h3 align="left">About</h3>
+
+###
+
+<p align="left">- i'm from Pakistan<br>- I'm currently in year 11 gcse <br>- i'm quite passionate about science, computer science and math</p>
+
+###
+
+<h3 align="left">languages & tools:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h3 align="left">stats:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aqmeraamir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/aqmeraamir/aqmeraamir/output/snake.svg" alt="Snake animation" />
+
+###
