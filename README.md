@@ -18,11 +18,7 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://visitorbadge.io/status?path=aqmeraamir%2Faqmeraamir"><img src="https://api.visitorbadge.io/api/visitors?path=aqmeraamir%2Faqmeraamir&countColor=%23263759" /></a>
-</div>
-
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=aqmeraamir%2Faqmeraamir&countColor=%23263759)](https://visitorbadge.io/status?path=aqmeraamir%2Faqmeraamir)
 ###
 
 <h1 align="center">hey</h1>
