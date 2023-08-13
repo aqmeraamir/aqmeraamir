@@ -19,7 +19,7 @@
 
 ###
 <div align="center">
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=aqmeraamir%2Faqmeraamir&countColor=%23263759)](https://visitorbadge.io/status?path=aqmeraamir%2Faqmeraamir)
+  <img src="https://api.visitorbadge.io/api/visitors?path=aqmeraamir%2Faqmeraamir&countColor=%23263759" height="25" alt="visitors"  />
 </div>
 ###
 
