@@ -1,6 +1,6 @@
 ###
 
-<h2 align="left">aqmer</h3>
+<h2 align="left">aqmer</h2>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">About</h3>
+<h3 align="left">about</h3>
 
 ###
 
