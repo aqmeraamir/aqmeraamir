@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/static/v1?message=aqmeraamir@gmail.com&logo=gmail&label=Gmail&color=aba9a6&logoColor=white&labelColor=D14836&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=aqmeraamir%2Faqmeraamir&countColor=%23263759" height="25" style="margin-bottom:25;" alt="visitors"  />
 </div>
