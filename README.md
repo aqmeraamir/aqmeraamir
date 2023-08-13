@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aqmeraamir.aqmeraamir&"  />
+  <a href="https://visitorbadge.io/status?path=aqmeraamir%2Faqmeraamir"><img src="https://api.visitorbadge.io/api/visitors?path=aqmeraamir%2Faqmeraamir&countColor=%23263759" /></a>
 </div>
 
 ###
