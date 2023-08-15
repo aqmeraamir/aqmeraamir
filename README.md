@@ -64,7 +64,7 @@
 
 <div align="center">
   <img alt="Muhammad Aqmer Aamir's Stats" src="https://github-readme-stats.vercel.app/api?username=aqmeraamir&theme=dark&show_icons=true&hide_border=false&count_private=true">
-graph"  />
+
   <img alt="Muhammad Aqmer Aamir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqmeraamir&theme=dark&show_icons=true&hide_border=false&layout=compact">
 </div>
 
