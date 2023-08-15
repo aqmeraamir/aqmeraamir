@@ -62,9 +62,9 @@
 
 ###
 
-<div style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Muhammad Aqmer Aamir's Stats" src="https://github-readme-stats.vercel.app/api?username=aqmeraamir&theme=dark&show_icons=true&hide_border=false&count_private=true" style="flex: 1;">
-  <img alt="Muhammad Aqmer Aamir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqmeraamir&theme=dark&show_icons=true&hide_border=false&layout=compact" style="flex: 1;">
+<div align="center">
+  <img alt="aqmeraamir's Stats" src="https://github-readme-stats.vercel.app/api?username=aqmeraamir&theme=dark&show_icons=true&hide_border=false&count_private=true" height=150>
+  <img alt="aqmeraamir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqmeraamir&theme=dark&show_icons=true&hide_border=false&layout=compact" height=150>
 </div>
 
 
