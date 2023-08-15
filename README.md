@@ -63,11 +63,11 @@
 ###
 
 <div align="center">
-  <div style="display: inline-block; vertical-align: top; width: 50%;">
+  <div style="display: inline-block; horizontal-align: top; width: 50%;">
     <img alt="Muhammad Aqmer Aamir's Stats" src="https://github-readme-stats.vercel.app/api?username=aqmeraamir&theme=dark&show_icons=true&hide_border=false&count_private=true" style="height: 100%;">
   </div>
 
-  <div style="display: inline-block; vertical-align: top; width: 50%;">
+  <div style="display: inline-block; horizontal-align: top; width: 50%;">
     <img alt="Muhammad Aqmer Aamir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqmeraamir&theme=dark&show_icons=true&hide_border=false&layout=compact" style="height: 100%;">
   </div>
 </div>
