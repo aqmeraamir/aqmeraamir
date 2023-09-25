@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- i'm from Pakistan<br>- I'm currently in year 11 gcse <br>- i'm quite passionate about science, computer science and math</p>
+<p align="left">- I'm currently in year 11 gcse <br>- i'm quite passionate about physics, computer science and math</p>
 
 ###
 
