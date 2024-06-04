@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="left">languages & tools:</h3>
+<h2 align="left">languages & tools:</h3>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h3 align="left">stats:</h3>
+<h2 align="left">stats:</h3>
 
 ###
 
