@@ -1,8 +1,7 @@
+<!-- Heading START -->
 ###
 
 <h2 align="left">aqmer</h2>
-
-###
 
 ###
 
@@ -11,6 +10,8 @@
 </div>
 
 ###
+<!-- Heading END -->
+
 
 <div align="center">
   <a href="https://www.instagram.com/aqmerdropz/" target="_blank">
@@ -25,20 +26,17 @@
 
 ###
 
-
-
+<!-- About START -->
 ###
-
 <h2 align="left">about</h3>
-
 ###
 
 <p align="left">- I'm currently in year 11 gcse <br>- i'm quite passionate about physics, computer science and math</p>
 
+
+<!-- Languages & Tools -->
 ###
-
 <h2 align="left">languages & tools:</h3>
-
 ###
 
 <div align="left">
@@ -51,10 +49,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+
+<!-- Stats -->
 ###
-
 <h2 align="left">stats:</h3>
-
 ###
 
 <div align="center">
@@ -62,16 +60,13 @@
 </div>
 
 ###
-
 <div align="center">
   <img alt="aqmeraamir's Stats" src="https://github-readme-stats.vercel.app/api?username=aqmeraamir&theme=dark&show_icons=true&hide_border=false&count_private=true" height=150>
   <img alt="aqmeraamir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqmeraamir&theme=dark&show_icons=true&hide_border=false&layout=compact" height=150>
 </div>
-
-
 ###
 
 <img src="https://raw.githubusercontent.com/aqmeraamir/aqmeraamir/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-###
+
 
