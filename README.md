@@ -16,16 +16,15 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=aqmeraamir%2Faqmeraamir&countColor=%23263759" height="25" style="margin-bottom:25;" alt="visitors"  />
 </div>
 
-</br>
- </br>
- </br>
- </br>
-</br>
+
 
 <!-- About  -->
 <h2 align="left">about</h3>
 <p align="left">- I'm currently in year 11 gcse <br>- i'm quite passionate about physics, computer science and math</p>
 
+</br>
+</br>
+</br>
 
 <!-- Languages & Tools -->
 <h2 align="left">languages & tools:</h3>
