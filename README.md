@@ -54,7 +54,7 @@
 
 </br>
 
-<img src="https://raw.githubusercontent.com/aqmeraamir/aqmeraamir/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/aqmeraamir/aqmeraamir/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 
 
