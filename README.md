@@ -1,16 +1,13 @@
 <!-- Heading START -->
-###
+
 
 <h2 align="left">aqmer</h2>
 
-###
+
 
 <div align="center">
   <img height="150" src="https://static.wikia.nocookie.net/bac1dc1c-9ba0-4a51-8c51-e05cefd1759a/scale-to-width/755"  />
 </div>
-
-###
-<!-- Heading END -->
 
 
 <div align="center">
@@ -24,20 +21,20 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=aqmeraamir%2Faqmeraamir&countColor=%23263759" height="25" style="margin-bottom:25;" alt="visitors"  />
 </div>
 
-###
 
-<!-- About START -->
-###
+
+<!-- About  -->
+
 <h2 align="left">about</h3>
-###
+
 
 <p align="left">- I'm currently in year 11 gcse <br>- i'm quite passionate about physics, computer science and math</p>
 
 
 <!-- Languages & Tools -->
-###
+
 <h2 align="left">languages & tools:</h3>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -59,12 +56,11 @@
   <img src="https://streak-stats.demolab.com?user=aqmeraamir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
 <div align="center">
   <img alt="aqmeraamir's Stats" src="https://github-readme-stats.vercel.app/api?username=aqmeraamir&theme=dark&show_icons=true&hide_border=false&count_private=true" height=150>
   <img alt="aqmeraamir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqmeraamir&theme=dark&show_icons=true&hide_border=false&layout=compact" height=150>
 </div>
-###
+
 
 <img src="https://raw.githubusercontent.com/aqmeraamir/aqmeraamir/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
