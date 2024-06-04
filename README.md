@@ -54,7 +54,10 @@
 
 </br>
 
-<img src="https://github.com/aqmeraamir/aqmeraamir/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+<!--<img src="https://github.com/aqmeraamir/aqmeraamir/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />-->
+
+![snake gif](https://github.com/aqmeraamir/aqmeraamir/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
