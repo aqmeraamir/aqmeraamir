@@ -23,8 +23,6 @@
 <p align="left">- I'm currently in year 11 gcse <br>- i'm quite passionate about physics, computer science and math</p>
 
 </br>
-</br>
-</br>
 
 <!-- Languages & Tools -->
 <h2 align="left">languages & tools:</h3>
@@ -38,6 +36,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+</br>
 
 
 <!-- Stats -->
