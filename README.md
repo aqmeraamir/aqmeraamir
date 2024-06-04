@@ -52,6 +52,8 @@
   <img alt="aqmeraamir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqmeraamir&theme=dark&show_icons=true&hide_border=false&layout=compact" height=150>
 </div>
 
+</br>
+
 <img src="https://raw.githubusercontent.com/aqmeraamir/aqmeraamir/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
