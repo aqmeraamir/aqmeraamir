@@ -31,7 +31,10 @@
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
 
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-line-wordmark.svg" height="40" alt="numpy logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/keras/keras-original-wordmark.svg" height="40" alt="keras logo"  />
+  <img width="12" />
+  
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-plain-wordmark.svg" height="40" alt="numpy logo"  />
   <img width="12" />
 
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
