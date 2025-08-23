@@ -17,7 +17,7 @@
 
 <!-- About  -->
 <h2 align="left">about</h3>
-<p align="left">- I'm currently in year 11 gcse <br>- i'm quite passionate about physics, computer science and math</p>
+<p align="left">- year 13 a level student <br>- interests: computer science, math, phsyics</p>
 
 </br>
 
